@@ -37,4 +37,4 @@ For example, if your field is called `avatar`.
     
 ### Changing Upload path from img/uploads to something else.
 
-You can extend it by making use of the setter functions.
+You can extend it by making use of [upload path setter](https://github.com/karmicdice/imageupload-behaviour/blob/master/src/Model/Behavior/ImagewebpuploadBehavior.php#L72-L82) AND [public path setter](https://github.com/karmicdice/imageupload-behaviour/blob/master/src/Model/Behavior/ImagewebpuploadBehavior.php#L72-L82) functions.
